@@ -25,8 +25,5 @@ public class DayResponse {
 		return "DayResponse [meals=" + meals + "]";
 	}
 	
-	
-	
-	
-
+			
 }
